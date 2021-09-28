@@ -1,0 +1,33 @@
+
+
+#head-top{
+    height: 100px;
+    background-color:black;
+    margin:auto;
+
+
+}
+
+#body-square{
+    height: 600px; 
+    background-color:white;
+    width: 700px;
+    margin:auto;
+    
+}
+
+
+#footer{
+    height:100px;
+    background-color:black;
+    width: 700px;
+    margin:auto;
+
+    
+
+}
+body{
+    background-color: grey;
+}
+
+

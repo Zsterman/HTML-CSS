@@ -1,0 +1,53 @@
+#greyrec{
+    background-color: lightgray;
+    height:90px;
+    width: 1000px;
+    padding:10px;
+
+}
+
+#bluebox{
+    background-color:lightskyblue;
+    height:75px;
+    width:75px;
+    margin-left:15px;
+    padding:5px;
+}
+
+#whiterec{
+    height:200px;
+    width:1000;
+}
+
+#bluerec{
+    background-color: lightskyblue;
+    height:90px;
+    width: 1000px;
+    padding:10px;
+}
+
+#tealrec{
+    background-color: teal;
+    height:90px;
+    width: 1000px;
+    padding:10px;
+}
+
+#greenrec{
+    background-color: yellowgreen;
+    height:90px;
+    width: 1000px;
+    padding:10px;
+}
+
+#yellowrec{
+    background-color: yellow;
+    height:90px;
+    width: 1000px;
+    padding:10px;
+}
+
+p{
+    margin-left: 85px;
+    padding:75px;
+}
